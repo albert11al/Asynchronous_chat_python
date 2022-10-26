@@ -1,0 +1,11 @@
+color:
+- black
+- white
+- blue
+availability: 5
+car_price:
+  Audi: 20000€
+  Mercedes: 30000€
+  BMW: 27000€
+  Porsche: 70000€
+  Volkswagen: 18000€
