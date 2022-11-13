@@ -1,0 +1,4 @@
+2022-11-13 15:15:33,992 CRITICAL   config_log_server: Критическая ошибка
+2022-11-13 15:15:33,992 ERROR      config_log_server: Ошибка
+2022-11-13 15:15:33,992 DEBUG      config_log_server: Отладочная информация
+2022-11-13 15:15:33,996 INFO       config_log_server: Информационное сообщение
